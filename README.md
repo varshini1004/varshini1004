@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varshini.
 - 👀 I’m am interested in learning more about the innovative sources that link to the field of Artificial intelligence and Machine Learning.
-- 🌱 I’m currently a graduate in the field of AIMl from PB Siddhartha College of Arts & Sciences.
+- 🌱 I’m currently a graduate in the field of AIML from PB Siddhartha College of Arts & Sciences.
 - 💞️ I’m looking forward to contribute my skills and experiences in AI-ML.
 
 <!---
