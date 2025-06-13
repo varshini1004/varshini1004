@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varshini.
 - 👀 I’m am interested in learning more about the innovative sources that link to the field of Artificial intelligence and Machine Learning.
-- 🌱 I’m currently a graduate in the field of AIML from PB Siddhartha College of Arts & Sciences.
+- 🌱 Completed my Degree in the field of AI & ML. Now, currently pursuing my Masters in MSc.Data Science at VIT-AP University.
 - 💞️ I’m looking forward to contribute my skills and experiences in AI-ML.
 
 <!---
